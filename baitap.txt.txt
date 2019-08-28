@@ -1,3 +1,2 @@
 hello word
-dau la bai tap dau tien cua
-Giao xu duong son
+dau la bai tap dau tien cua toi
